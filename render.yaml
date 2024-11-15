@@ -1,6 +1,6 @@
  services:
   - type: web
-    name: educational-website
+    name: 327r8feviusdnijdw8rh3ufewonsijui3t43greuoe
     env: node
     plan: free
     startCommand: npm install && node index.js
